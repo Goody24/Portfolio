@@ -24,7 +24,7 @@ I specialize in front-end development and love working with teams to build impac
 ## 📫 Contact
 
 - GitHub: [@ikechukwuAgu](https://github.com/ikechukwuAgu)  
-- LinkedIn: [----](https://linkedin.com/in/)  
+- LinkedIn: [___](https://linkedin.com/in/)  
 - Email: <ikechukwuagu38@gmail.com>  
 
 ## 📜 License

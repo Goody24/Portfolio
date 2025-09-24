@@ -15,11 +15,11 @@
 ## 📖 Overview
 
 Welcome to our **Team Portfolio Project**!  
-This repository is a collaborative effort by seven contributors to showcase our skills, projects, and achievements using **Markdown**.  
+This repository is a collaborative effort by Eight contributors to showcase our skills, projects, and achievements using **Markdown**.  
 
 ---
 
-## 👥 Team Portfolios  
+## 👥 Kavinoq Team Portfolios  
 
 | Member | GitHub | Portfolio |
 |--------|--------|-----------|
